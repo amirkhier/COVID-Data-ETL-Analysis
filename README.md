@@ -9,7 +9,7 @@ This repository contains SQL scripts and data files used to perform data explora
 ### 1. Data Files
 - **coronaDeaths.csv**: This file contains data related to COVID-19 deaths, including metrics such as total deaths, new deaths, and more.
 - **coronaVacination.csv**: This file includes data on COVID-19 vaccinations, with details on vaccination rates, doses administered, and other relevant information.
-
+- **Contact me if you need those 2 csv files , if the files not appear in repository**:Contact Me by sending mail "khier319@gmail.com" , the files isn't here , because the csv files are heavy to load  .
 ### 2. SQL Scripts
 - **DataExploration.sql**: This script is designed for exploratory data analysis (EDA). It contains SQL queries that help in understanding the structure of the data, identifying key trends, and generating summary statistics.
 - **ETL.sql**: This script is responsible for setting up the database and performing the ETL process. It creates the necessary tables, transforms the data from the CSV files, and loads it into the MySQL/MariaDB database.
