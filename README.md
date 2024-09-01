@@ -33,7 +33,7 @@ This repository contains SQL scripts and data files used to perform data explora
     ```
 
     - The script will:
-        - Create a new database named `covid_data_analysis`.
+        - Create a new database named `corona`.
         - Create the necessary tables for storing COVID-19 deaths and vaccination data.
         - Load the data from `coronaDeaths.csv` and `coronaVacination.csv` into the respective tables.
 
