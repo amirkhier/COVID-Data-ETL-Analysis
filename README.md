@@ -74,5 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Data sourced from [Link](https://ourworldindata.org/covid-deaths)].
+- Data sourced from [Link](https://ourworldindata.org/covid-deaths).
 - Inspired by the ongoing global effort to understand and combat the COVID-19 pandemic.
