@@ -1,4 +1,3 @@
-# COVID-Data-ETL-Analysis
 # COVID-19 Data Analysis and ETL Project
 
 ## Overview
