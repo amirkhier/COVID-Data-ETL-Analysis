@@ -96,7 +96,7 @@ COLLATE=utf8mb4_general_ci;
 -- load
 -- Load Step: Load data from the CSV file into the table with handling for empty strings
 -- coronaDeathTable
-LOAD DATA INFILE 'C:/Users/USER/Desktop/Courses/Data Analysis -Appleseeds/MySQL Data Exploaration/coronaDeaths.csv'
+LOAD DATA INFILE 'Your Path'
 INTO TABLE corona.coronaDeaths
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
@@ -156,7 +156,7 @@ MODIFY COLUMN formatted_date DATE
 AFTER iso_code;
 
 -- corona Vacination Table
-LOAD DATA INFILE 'C:/Users/USER/Desktop/Courses/Data Analysis -Appleseeds/MySQL Data Exploaration/coronaVacination.csv'
+LOAD DATA INFILE 'Your Path'
 INTO TABLE corona.coronaVacination
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
